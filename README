@@ -1,0 +1,5 @@
+#variational inference for the joint training of GMM-ivector extractor
+
+The code was developed two years ago.
+For the theoretical part, pls read MyNote.pdf
+The core part of the code is in bin/jvector and bin/jvectorbin directories.

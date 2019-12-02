@@ -2,6 +2,7 @@
 # Copyright 2013   Daniel Povey
 #           2014   David Snyder
 #           2016   Lantian Li, Yixiang Chen, Zhiyuan Tang, Dong Wang
+#           2018   Zhiyuan PENG
 # Apache 2.0.
 #
 # This example script for i-vector LID is still a bit of a mess, and needs to be
